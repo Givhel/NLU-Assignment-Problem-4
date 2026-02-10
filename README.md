@@ -97,6 +97,5 @@ The comparative performance of these models is discussed in detail in the projec
 3. The program will train all three models and display their evaluation results.
 
 
-**Author**
-**Course: CSL 7640- Natural Language Understanding**
+
 
